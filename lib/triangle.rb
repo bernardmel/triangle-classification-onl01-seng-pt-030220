@@ -28,5 +28,5 @@ end
 class TriangleError < StandardError
   # triangle error code
 
-binding.pry
+
 end
