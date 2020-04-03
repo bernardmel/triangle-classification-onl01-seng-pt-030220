@@ -22,9 +22,6 @@ class Triangle
       end
     end
 
-    def triangle
-    side_1.positive? && side_2.positive? && z=side_3.positive?
-  end
   end
 end
 
