@@ -24,4 +24,3 @@ class Triangle
     end
   end
 end
-binding.pry
